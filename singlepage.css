@@ -1,0 +1,332 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.headerbg{
+    background-color: rgb(0, 0, 71);
+    width: 100%;
+    height: 150px;
+
+}
+.iconone{
+   height: 20px;
+}
+.icontwo{
+    height: 20px;
+}
+.iconthree{
+    height: 20px;
+}
+.iconfour{
+    height: 20px;
+}
+.iconfive{
+    height: 20px;
+}
+.iconsix{
+    height: 20px;
+}
+.paraone{
+    color: white;
+}
+.flexxone{
+    display: flex;
+
+   
+    
+}
+.engl{
+    margin-right: 10px;
+}
+.flexione{
+    display: flex;
+    
+}
+.mrone{
+    margin-right: 10px;
+}
+.mrtwo{
+    margin-right: 10px;
+}
+.imgone{
+    height: 20px;
+}
+.flexi{
+    display: flex;
+}
+.spanone{
+    color: white;
+}
+.spantwo{
+    color: white;
+}
+.paratwo{
+    color: white;
+}
+.parathree{
+    color: white;
+}
+.parafour{
+    color: white;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 5px;
+    width: 95%;
+    margin: auto;
+}
+.mrthree{
+    margin-right: 10px;
+}
+.imgtwo{
+    height: 50px;
+}
+.imgthree{
+    height: 20px;
+   
+    
+}
+.imgfour{
+    height: 20px;
+
+}
+.imgfive{
+    height: 20px;
+}
+.inputone{
+    width: 250px;
+    height: 35px;
+    padding-left: 35px;
+   border-radius: 10px;
+   border: 1px solid rgba(0, 0, 0, 0.685);
+   border-width: 3px;
+   
+   
+}
+.subfive{
+    display: flex;
+    margin-right: 25px;
+}
+.searchicon{
+    margin-right: -30px;
+    z-index: 1;
+    margin-top: 10px;
+}
+.micscan{
+    margin-left: -55px;
+    z-index: 1;
+    margin-top: 10px;
+}
+.profile{
+    height: 40px;
+}
+.heart{
+    height: 40px;
+}
+.cart{
+    height: 40px;
+}
+.subsix{
+    display: flex;
+}
+.profile{
+    margin-right: 10px;
+}
+.heart{
+    margin-right: 10px;
+}
+.subflex{
+    display: flex;
+    justify-content: space-between;
+}
+.flexis{
+    display: flex;
+    
+}
+.containerone{
+    width: 90%;
+    margin: auto;
+    padding-top: 20px;
+   
+    
+}
+.bgcolor{
+
+    background-color: rgb(206, 206, 206);
+    width: 98%;
+    height: 120px;
+    margin: auto;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.ulflex{
+    display: flex;
+   
+    justify-content: space-between;
+}
+.ulflex li a{
+  
+    text-decoration: none;
+}
+.jewel{
+    list-style-type: none;
+}
+.fontcolor{
+    color: black;
+    font-size: 14px;
+    font-weight: bold;
+}
+.containertwo{
+    width: 80%;
+  margin: auto;
+  padding-top: 15px;
+}
+.color{
+    color: black;
+    width: 200px;
+    height: 35px;
+    border-radius: 0px 5px 5px 0px;
+    padding-left: 20px;
+    border: none;
+    box-shadow: 1px 1px 1px 3px rgb(185, 185, 185);
+    
+}
+.usericon{
+    height: 25px;
+    border: 1px solid black;
+    border: none;
+    box-shadow: 1px 1px 1px 3px rgb(185, 185, 185);
+    padding-top: 5px;
+    
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 9px;
+}
+.displayflex{
+    display: flex;
+    margin-bottom: 10px;
+    justify-content: center;
+}
+.signup{
+    background-color: rgb(0, 0, 71);
+    color: white;
+    width: 100px;
+    height: 35px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 25px;
+    
+}
+.btn{
+    text-align: center;
+}
+.contains{
+   display: flex;
+   justify-content: space-between;
+   width: 95%;
+   margin: auto;
+}
+.signups{
+    text-align: center;
+    margin-bottom: 25px;
+    margin-top: 20px;
+}
+.maincolor{
+    /* color: rgb(0, 0, 71); */
+    background-color: rgb(0, 0, 71);
+    width: 100%;
+    height: 735px;
+}
+.imgflex{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 10px;
+}
+.imgflextwo{
+    display: flex;
+    justify-content: space-around;
+   margin-top: 40px;
+}
+.imgflexone{
+    display: flex;
+    justify-content: space-around;
+   
+    
+    
+    
+   
+   
+}
+.colorhr{
+    background-color:rgb(0, 0, 71) ;
+    width: 100%;
+    height: 20px;
+    position: relative;
+    top: 20px;
+    border: none;
+}
+.backgroundwhite{
+    background-color: white;
+    width: 40%;
+    height: 530px;
+    border-radius: 10px 0px 0px 10px;
+}
+.diamound{
+    width: 100%;
+    height: 50px;
+   
+    
+
+}
+.include{
+    color: white;
+    position: relative;
+    margin-left: -45px;
+}
+.jewels{
+    height: 50px;
+}
+.jewelsone{
+    height: 50px;
+}
+.ayyra{
+    margin-bottom: 30px;
+}
+   
+
+.line{
+    width: 105px;
+    
+}
+.lineflex{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;    
+}
+.or{
+    margin-top: -10px;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+.height{
+    height: 20px;
+}
+.eflex{
+    display: flex;
+    
+    border: 1px solid black;
+    border-radius: 5px 5px 5px 5px;
+    border: none;
+    box-shadow: 1px 1px 1px 3px rgb(185, 185, 185);
+    justify-content: center;
+    width: 416px;
+    margin: auto;
+}
+.completes{
+    font-size: small;
+}
+.divone{
+    margin-right: 10px;
+    margin-top: 5px;
+}
